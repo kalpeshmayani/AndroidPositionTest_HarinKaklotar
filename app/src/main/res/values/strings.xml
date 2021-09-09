@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidPositionTest_HarinKaklotar</string>
+    <string name="comments">Comments</string>
+    <string name="by_author">Post by - %s</string>
+</resources>
